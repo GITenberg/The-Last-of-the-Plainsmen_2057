@@ -1,0 +1,38 @@
+_repo: The-Last-of-the-Plainsmen_2057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Fictionalized biography of Colonel Charles Jesse Jones ("Buffalo Jones"),
+  1844-1919, a frontiersman and wild game hunter. Jones, the last of the plainsmen,
+  and several associates venture into the region of Buckskin Mountain, along the northern
+  rim of the Grand Canyon. In a continuing quest to establish dominion over wild animals,
+  Jones leads his men on a journey to capture untamed cougars and bring them back
+  alive. After several run-ins with Navajo, Commanche, Yellow Knife and Great Slave
+  Indians, Jones finally captures his first wild cougar.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcc 'PS'
+- !lcsh 'Jones, Charles Jesse, 1844-1919 -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Pioneers -- Fiction'
+- GITenberg
+title: The Last of the Plainsmen
+url: http://www.gutenberg.org/ebooks/2057
